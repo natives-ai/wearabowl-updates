@@ -3,6 +3,11 @@
   "applicationId": "com.nativesai.wearabowl",
   "appStoreId": "6812648810",
   "channel": "testflight",
-  "state": "unknown",
-  "verifiedAt": "2026-11-11T02:04:32.000Z"
+  "state": "testing",
+  "verifiedAt": "2026-11-11T02:53:26.254Z",
+  "audience": "all_testers",
+  "version": "1.0",
+  "build": "5",
+  "minimumOSVersion": "15.1",
+  "expiresAt": "2027-02-08T16:28:50.000Z"
 }
